@@ -2,4 +2,5 @@
 FROM almalinux:9
 LABEL COURSE="Docker for DevOps" \
       TRAINER="Siva Kumar Reddy" \
-      DURATION="10 hours" 
+      DURATION="10 hours" \
+      AUTHOR="joindevops"
