@@ -1,0 +1,5 @@
+#almalinux is exactly same as redhat image, but completely free to use 
+FROM almalinux:9
+LABEL COURSE="Docker for DevOps" \
+      TRAINER="Siva Kumar Reddy" \
+      DURATION="10 hours" 
